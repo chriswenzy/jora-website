@@ -775,7 +775,7 @@ form label {
   margin-bottom: 20px;
   line-height: 1.5;
   font-weight: bold;
-  color: #000;
+  color: white;
   position: relative;
   padding-bottom: 10px;
 }
@@ -801,7 +801,7 @@ form label {
 .gtco-heading p {
   font-size: 20px;
   line-height: 1.5;
-  color: #1a1a1a;
+  color: white;
 }
 @media screen and (max-width: 768px) {
   .gtco-heading p {
